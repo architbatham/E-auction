@@ -34,3 +34,4 @@ The E-Auction Website is a platform where users can add their products for aucti
 
 ### Clone the Repository
 ```bash
+git@github.com:architbatham/E-auction.git
