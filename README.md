@@ -3,6 +3,8 @@
 ## Overview
 The E-Auction Website is a platform where users can add their products for auction and others can place bids on these products. It includes user registration with email verification, product browsing, bidding, and various admin functionalities.
 
+![Alt text](URL_of_image)
+
 ## Features
 
 ### User Features
