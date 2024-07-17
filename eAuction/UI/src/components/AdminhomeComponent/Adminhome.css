@@ -1,0 +1,21 @@
+p{
+    font-size: larger;
+}
+.lead {
+    font-size: 1.25rem;
+    color: #6c757d;
+  }
+  .card {
+    border-radius: 10px;
+  }
+  
+  .card-title {
+    font-size: xx-large;
+    font-family: 'Anton SC', cursive;
+    color: #FE5D37;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #495057;
+  }

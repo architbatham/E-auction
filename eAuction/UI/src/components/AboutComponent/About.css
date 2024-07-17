@@ -1,0 +1,33 @@
+.container-xxl {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  h1, h2 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  .about-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .about-list li {
+    padding: 0.5rem 0;
+  }
+  
+  .about-list li::before {
+    content: '•';
+    color: #ff6600; /* Custom bullet color */
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+  
