@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon --exec babel-node",
     "start":"node app.js"
   },
   "keywords": [],

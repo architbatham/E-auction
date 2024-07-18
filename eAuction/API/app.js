@@ -1,3 +1,5 @@
+// "dev": "nodemon --exec babel-node", Add in package json in scrpipt
+
 // import express from 'express';
 // import bodyParser from 'body-parser';
 // import cors from 'cors';
