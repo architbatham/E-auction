@@ -1,7 +1,7 @@
 # E-Auction Website
 
 ## Overview
-The E-Auction Website is a platform where users can add their products for auction and others can bid on them. It includes user registration with email verification, product browsing, bidding, and various admin functionalities.
+The E-Auction Website is a platform where users can add their products for auction and others can bid on them. It includes user registration with email verification, product browsing, bidding, and various admin functionalities..
 
 
  <img src="https://github.com/architbatham/E-auction/blob/main/eAuction/UI/public/assets/img/Website%20images/1%20Home%20.jpg?raw=true" alt="Home page">
